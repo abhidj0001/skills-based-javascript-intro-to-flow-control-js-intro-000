@@ -29,6 +29,6 @@ switch (age>=13 && age<=19) {
   case expression:return "You are a teenager";
     break;
   default:return "You have an age";
-    
+
 }
 }
